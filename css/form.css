@@ -1,0 +1,27 @@
+body{
+	background-color: skyblue;}
+div{
+	background-color: gray;
+	align-self: right;
+
+	}
+.wrapped{
+	width: 60%;
+	padding: 5px;
+	border: 2px solid #ddd;
+	border-radius: 3px;
+	}
+
+.form{
+	margin: 5px;
+	width: 50%;
+}
+.first_name, .last_name, .email_address, .password, .gender, .message, .button{
+	margin: 5px;
+	width: 70%;
+	margin: 2px;}
+
+a{font-size: 20px;
+	color: red;
+
+}

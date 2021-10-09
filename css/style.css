@@ -1,0 +1,47 @@
+
+.title{
+	font-size: 50px;
+	text-align: center;
+	border-radius: 2px;
+	border: 3px solid purple;
+}
+body{
+	background-color: skyblue;
+	background-opacity: .1;
+	text-align: 	
+}
+header{
+	font-size: 40px;
+	color: blue;
+}
+div{
+	border: 2px solid black
+}
+.block_to_inline{
+	display: inline;
+	color: purple;
+	font-size: 20px
+}
+.inline_to_block{
+	display: block;
+}
+h2{
+	display: inline-block;
+	color: green
+}
+.ramna_park_map{
+	width: 560;
+	height:315; 
+	border:0;
+}
+.you_tube_video{
+	width:"560"; 
+	height:"315"
+}
+table,th,td{
+	border: 1px solid black;
+	border-style: double;
+	margin: 10px;
+	padding: 5px;
+
+}
